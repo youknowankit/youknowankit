@@ -1,15 +1,16 @@
-<h1 align="center">Hi there, I'm Ankit Yadav 👋</h1>
+<h1 align="center">Hey there! 👋 I'm Ankit Yadav</h1>
 
 <p align="center">
-  <em>Web Developer | Learning React | Passionate about building intuitive digital experiences</em>
+  <em>Front-End Developer | React Learner | Creator of simple, impactful digital experiences</em>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Who Am I?
 
-- 💻 Passionate about **Web Development**
-- 🌱 Currently learning **React.js**
+- 👨‍💻 A developer with a strong passion for crafting responsive and user-friendly websites.
+- 🌱 Currently diving deeper into **React.js** and modern front-end workflows.
+- 💬 Always open to conversations about tech, design, and learning.
 - ✉️ Reach me at: [thisisankityadav@gmail.com](mailto:thisisankityadav@gmail.com)
 
 ---
@@ -40,6 +41,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer"/>
-</p>
+
