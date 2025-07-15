@@ -17,14 +17,13 @@
 
 ## 🚀 Skills & Tools
 
-### 🧪 **Testing & QA**
-- Concepts: SDLC, STLC, Test Design, Test Planning, Test Scenarios, Bug Tracking
-- Methodologies: Agile & Scrum
-- Automation: Cypress
-
 ### 💻 **Programming & Web Technologies**
 - Languages: Java (Core), JavaScript (ES6), Python (Learning), HTML5, CSS3
 - Databases: MySQL, SQLite
+
+### ⚛️ **Frontend & Frameworks**
+- React.js, Redux (State Management)
+- Building responsive and component-driven frontend projects
 
 ### 🛠️ **Tools & Platforms**
 - APIs & Clients: Postman, Thunder Client
@@ -32,9 +31,10 @@
 - Version Control: GitHub, Bitbucket
 - Project Management: JIRA
 
-### ⚛️ **Frontend & Frameworks**
-- React.js, Redux (State Management)
-- Building responsive and component-driven frontend projects
+### 🧪 **Testing & QA**
+- Concepts: SDLC, STLC, Test Design, Test Planning, Test Scenarios, Bug Tracking
+- Methodologies: Agile & Scrum
+- Automation: Cypress
 
 ---
 
