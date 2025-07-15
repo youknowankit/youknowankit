@@ -1,17 +1,40 @@
 <h1 align="center">Hey there! 👋 I'm Ankit Yadav</h1>
 
 <p align="center">
-  <em>Front-End Developer | React Learner | Creator of simple, impactful digital experiences</em>
+  <em>Frontend Developer | React & Redux Enthusiast | Building clean and user-focused web experiences</em>
 </p>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 🧑‍💻 About Me
 
-- 👨‍💻 A developer with a strong passion for crafting responsive and user-friendly websites.
-- 🌱 Currently diving deeper into **React.js** and modern front-end workflows.
-- 💬 Always open to conversations about tech, design, and learning.
+- 💡 I’m a web developer passionate about building interactive UIs and intuitive user experiences.
+- 🔄 Currently learning **Python** and enhancing my **React + Redux** skills.
+- 💬 Love working with both manual and automated testing workflows.
 - ✉️ Reach me at: [thisisankityadav@gmail.com](mailto:thisisankityadav@gmail.com)
+
+---
+
+## 🚀 Skills & Tools
+
+### 🧪 **Testing & QA**
+- Concepts: SDLC, STLC, Test Design, Test Planning, Test Scenarios, Bug Tracking
+- Methodologies: Agile & Scrum
+- Automation: Cypress
+
+### 💻 **Programming & Web Technologies**
+- Languages: Java (Core), JavaScript (ES6), Python (Learning), HTML5, CSS3
+- Databases: MySQL, SQLite
+
+### 🛠️ **Tools & Platforms**
+- APIs & Clients: Postman, Thunder Client
+- Local Dev: XAMPP, LAMPP, MySQL Workbench
+- Version Control: GitHub, Bitbucket
+- Project Management: JIRA
+
+### ⚛️ **Frontend & Frameworks**
+- React.js, Redux (State Management)
+- Building responsive and component-driven frontend projects
 
 ---
 
