@@ -52,15 +52,6 @@
   <a href="https://youknowankit.github.io/portfolio/" target="_blank" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/akaankityadav/" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://dribbble.com/youknowankit" target="_blank" title="Dribbble">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
