@@ -17,17 +17,8 @@ Hi! I'm Ankit, a passionate web developer with a focus on building clean, functi
 ---
 
 ### 📫 Let's Connect
-
-<p align="center">
   <a href="https://linkedin.com/in/youknowankit" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/youknowankit" target="_blank" title="Twitter / X">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v2.png" alt="X" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://youknowankit.github.io/portfolio/" target="_blank" title="Portfolio">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="40" />
-  </a>
-</p>
+  
