@@ -20,5 +20,4 @@ Hi! I'm Ankit, a passionate web developer with a focus on building clean, functi
   <a href="https://linkedin.com/in/youknowankit" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   
