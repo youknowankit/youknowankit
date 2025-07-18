@@ -1,58 +1,37 @@
-<h1 align="center">Hey there! 👋 I'm Ankit Yadav</h1>
+# 👨‍💻 Ankit Yadav — Web Developer
 
-<p align="center">
-  <em>Frontend Developer | React & Redux Enthusiast | Building clean and user-focused web experiences</em>
-</p>
+Hi! I'm Ankit, a passionate web developer with a focus on building clean, functional, and responsive web applications.
 
----
+### 🧰 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Redux (basics)
+- **Version Control:** Git & GitHub
+- **Database:** MySQL
+- **Backend Tools:** Postman, Thunder Client
+- **Programming Languages:** Core Java (OOP, Collections, Exception Handling, etc.)
 
-## 🧑‍💻 About Me
+### 📂 Projects
+- 🌐 Currently building projects using **React** and **Redux**
+- 🧪 Uploaded several **Vanilla JavaScript** projects showcasing core concepts like DOM manipulation, event handling, API integrations, and more.
 
-- 💡 I’m a web developer passionate about building interactive UIs and intuitive user experiences.
-- 🔄 Currently learning **Python** and enhancing my **React + Redux** skills.
-- 💬 Love working with both manual and automated testing workflows.
-- ✉️ Reach me at: [thisisankityadav@gmail.com](mailto:thisisankityadav@gmail.com)
+### 🚀 What’s Next
+I'm continuously learning and improving by building real-world projects and deepening my understanding of modern JavaScript frameworks and backend tools.
 
----
-
-## 🚀 Skills & Tools
-
-### 💻 **Programming & Web Technologies**
-- Languages: Java (Core), JavaScript (ES6), Python (Learning), HTML5, CSS3
-- Databases: MySQL, SQLite
-
-### ⚛️ **Frontend & Frameworks**
-- React.js, Redux (State Management)
-- Building responsive and component-driven frontend projects
-
-### 🛠️ **Tools & Platforms**
-- APIs & Clients: Postman, Thunder Client
-- Local Dev: XAMPP, LAMPP, MySQL Workbench
-- Version Control: GitHub, Bitbucket
-- Project Management: JIRA
-
-### 🧪 **Testing & QA**
-- Concepts: SDLC, STLC, Test Design, Test Planning, Test Scenarios, Bug Tracking
-- Methodologies: Agile & Scrum
-- Automation: Cypress
+> 🔗 Explore my GitHub repositories to see my work in action!
 
 ---
 
-## 🤝 Let's Connect
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/youknowankit" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/youknowankit" target="_blank" title="X (Twitter)">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter/X" width="35" height="35"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://youknowankit.github.io/portfolio/" target="_blank" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Portfolio" width="35" height="35"/>
   </a>
-
----
-
-
+</p>
