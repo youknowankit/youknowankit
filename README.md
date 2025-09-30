@@ -7,7 +7,7 @@ Hi! I'm Ankit, a passionate web developer with a focus on building clean, functi
 - **Version Control:** Git & GitHub
 - **Database:** MySQL
 - **Backend Tools:** Postman, Thunder Client
-- **Programming Languages:** Core Java (OOP, Collections, Exception Handling, etc.)
+- **Programming Languages:** JavaScript
 
 ### 📂 Projects
 - 🌐 Currently building projects using **React** and **Redux**
