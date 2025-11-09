@@ -4,10 +4,11 @@ Hi! I'm Ankit, a passionate web developer with a focus on building clean, functi
 
 ### 🧰 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Redux (basics)
-- **Version Control:** Git & GitHub
+- **Version Control:** Git & GitHub, Bit Bucket
 - **Database:** MySQL
 - **Backend Tools:** Postman, Thunder Client
 - **Programming Languages:** JavaScript
+- **Package Managers:** npm, Yarn
 
 ### 📂 Projects
 - 🌐 Currently building projects using **React** and **Redux**
