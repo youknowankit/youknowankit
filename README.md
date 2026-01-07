@@ -3,8 +3,8 @@
 Hi! I'm Ankit, a passionate web developer with a focus on building clean, functional, and responsive web applications.
 
 ### 🧰 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Redux
-- **CSS Framework:** BootStrap CSS, React BootStrap, Styled Components, Tailwind CSS
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Redux Toolkit (RTK)
+- **CSS Framework:** BootStrap CSS, React BootStrap, Styled Components, Tailwind CSS, Shadcn UI
 - **CSS Preprocessor:** SASS/SCSS
 - **Version Control:** Git & GitHub, Bit Bucket
 - **Database:** MySQL
